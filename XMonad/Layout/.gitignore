@@ -1,0 +1,11 @@
+lib/Anekos/Config/Env/Load.hs
+*.o
+*.hi
+xmonad
+xmonad-i386-linux
+xmonad.errors
+bin/RunScriptServer
+history
+xmonad-x86_64-linux
+*.hs~
+*.log
