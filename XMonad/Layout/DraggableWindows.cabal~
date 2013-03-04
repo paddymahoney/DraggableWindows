@@ -1,0 +1,14 @@
+Name:          DraggableWindows
+Version:        0.0.1
+Cabal-Version:  >= 1.2
+License:        BSD3
+Author:         Patrick Mahoney
+Homepage:       https://github.com/paddymahoney/xmonad
+Category:       XMonadExtension
+Synopsis:       An XMonadExtension
+
+Library
+  Build-Depends: base, xmonad, X11, xmonad-contrib
+
+  Exposed-modules:
+    XMonad.Layout.DraggableWindows
